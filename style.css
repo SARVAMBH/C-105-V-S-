@@ -1,0 +1,19 @@
+body{
+ background-image: radial-gradient(red,yellow,green,blue,purple,orange,violet,pink,gold,silver,grey,teal,brown,aqua);
+ font-size: 23px;
+}
+
+.name_of_objects{
+    background-color: aqua;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+#camera , #webcam{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
